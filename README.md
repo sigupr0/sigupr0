@@ -7,4 +7,4 @@ Hi, I'm a cute person (irl) that likes to program some crazy or useless tools in
 
 ## 🤌 Languages that i use 
 - 🦀 **Rust** I love this language, It's the only language that performs well and has a lot of functional constructs.
-- 4️⃣ **Lean4** Useful to make your programs stronger with the use of dependent types
+- 4️⃣ **php** Useful to make your programs stronger with the use of dependent types
